@@ -2,7 +2,7 @@ CMPUT404-assignment-websockets
 ==============================
 Used code from:  
 https://github.com/abramhindle/WebSocketsExamples  
-http://www.uiupdates.com/draw-smileys-using-html5-canvas/
+http://www.uiupdates.com/draw-smileys-using-html5-canvas/  
 CMPUT404-assignment-websockets
 
 See requirements.org (plain-text) for a description of the project.
