@@ -54,6 +54,10 @@ POSSIBILITY OF SUCH DAMAGE.
 
 Contributors
 ============
+Used code from:
+https://github.com/abramhindle/WebSocketsExamples
+http://www.uiupdates.com/draw-smileys-using-html5-canvas/
 
+* Kevin Tang
 * Mark Galloway
 * Abram Hindle
